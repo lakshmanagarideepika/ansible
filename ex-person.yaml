@@ -1,0 +1,22 @@
+#Ansible format example (syntax example)
+
+- name: hjjk
+  dob: "23-5-1998"
+  address:
+   address-line1: hjj street
+   address-line2: jk nagar
+   city : hyd
+  email: fhmfmj@gmail.com
+
+
+- name: hjjk
+  dob: "23-5-1998"
+  address:
+  - address-line1: hjj street
+    address-line2: jk nagar
+    city : hyd
+  - address-line1: hjj street
+    address-line2: jk nagar
+    city : hyd
+  email: vjhj@gmail.com
+
