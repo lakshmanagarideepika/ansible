@@ -4,7 +4,6 @@
     Course: "Devops"
     Trainer: "sivakumar"
     Duration: "110hrs"
-    
   tasks:
    - name: check variables:
      ansible.builtin.debug:
