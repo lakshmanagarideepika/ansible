@@ -8,6 +8,8 @@ local host
 course="Devops from inventory"
 Trainer="sivakumar"
 Duration="110hrs"
+PERSON="siva from INVENTORY"
+WISHES="Morning from INVENTORY"
 
 [web]
 54.80.61.78
