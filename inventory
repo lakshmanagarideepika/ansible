@@ -1,9 +1,17 @@
 192.187.56.20
 192.187.56.30
 
+[local host]
+local host
+
+[localhost:vars]
+course="Devops from inventory"
+Trainer="sivakumar"
+Duration="110hrs"
+
 [web]
 54.80.61.78
-
+                 
 [catalogue]
 192.187.56.5
 192.187.56.6
